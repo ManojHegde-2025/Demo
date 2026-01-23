@@ -1,0 +1,29 @@
+/* Element selector denoted by nothing */
+/* p{
+    color: brown;
+}
+h2{
+    color: white;
+    background-color: black;
+} */
+
+/* ID Selector denoted by '#' */
+/* #pId{
+    color: brown;
+}
+#as{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;} */
+
+/* formatting more number of id,class,element with same text formats */
+/* .element,#pid,.abc{
+    background-color:yellow 
+} */
+/* Class selector denoted by '.' */
+/* .abc{
+    color: blue;
+} */
+
+ /* Universal Selectot  denoted by '*' */
+ * {
+    color: orangered;
+    font-style: oblique;
+}
