@@ -1,0 +1,11 @@
+div{
+border: 15px solid orange;
+padding: 45px;
+/* padding: 45px 45px 45px 13px; */
+/* padding-left: 4px; */
+margin:50px;
+text-align: center;
+font-size: x-large;
+
+/* margin can also adjusted same as padding */
+}
