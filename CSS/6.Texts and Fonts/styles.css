@@ -1,0 +1,17 @@
+h1{
+    /* color:brown;
+    background-color: orange;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: blue;
+    text-align: center; */
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{
+    /* text-align: justify;
+    word-spacing: 5px;
+    text-shadow: 5px 5px 1px rgb(36, 13, 212);
+    color: transparent */
+    font-style: italic;
+}
