@@ -1,0 +1,42 @@
+.container{
+    /* width : 400px;
+    height: 400px;
+    border: 2px solid rgb(255, 0, 0);
+    /* overflow: visible;*/
+    /* overflow: scroll; */
+    /* overflow: hidden;*/
+    /* overflow: auto; */
+    text-align: justify;
+    font-family: inherit
+
+}
+
+.subcontainer {
+    overflow: auto;
+    font-family: cursive;
+}
+
+.img1 {
+    float : right;
+    border : 2px solid black;
+    margin : 3px 13px ;
+    padding: 5px;
+    background-color: lightblue;
+
+}
+
+.img2{
+    float : left;
+    border: 5px solid red;
+    margin: 3px 10px;
+    padding: 7px;
+    background-color: rgb(77, 38, 195);
+}
+    *{
+        background-color: #0f1729;
+        color: #0DA2E7;
+        
+    }
+
+
+
