@@ -1,0 +1,28 @@
+.outer{
+    width: 400px;
+    height: 400px;
+    background-color: lightblue;
+    margin:100px auto;
+}
+
+.inner{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* transform: scale(1.2, 1.2); */
+    /* transform: skew(20deg ); */
+    transform: rotate(45deg);
+}
+
+
+/* Transform --scale
+    transform: scale(1.2);
+    transform: scalex(1.2);
+    transform: scalex(1.2) scaley(1.2);
+    transform: scale(1.2, 1.2);
+
+*/
